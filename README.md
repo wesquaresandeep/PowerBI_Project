@@ -40,7 +40,7 @@ Problem Statement 2: Charts Requirement
 Short Explanation of the Overview of the Project.
 
 > This is an Interactive Dynamic Dashboard on car sales whcih you can download the file from the github and view it on the POWERBI Desktop Application and the excel data is also provided.
-> It has multiple measures in a single KPI (Key Performance Indicator) like YTD total sales, difference between current year sales and previous sales year, growth in the sales of the car(year to year)with respect to the previos year and what is the growth percentage.
+> It has multiple measures in a single KPI (Key Performance Indicator) like YTD total sales, difference between current year sales and previous sales year, growth in the sales of the car(year to year)with respect to the previous year and what is the growth percentage.
 > Data Visualisation on the YTD sales Trend.
 > Visualisations of the Pie Charts on YTD total sales by body style and Color.
 > We can also visualise on YTD Cars sold by dealer region and Company Wise Sales Trend.
