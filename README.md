@@ -37,3 +37,16 @@ Problem Statement 2: Charts Requirement
 6)Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
 
+Short Explanation of the Overview of the Project.
+
+> This is an Interactive Dynamic Dashboard on car sales whcih you can download the file from the github and view it on the POWERBI Desktop Application and the excel data is also provided.
+> It has multiple measures in a single KPI (Key Performance Indicator) like YTD total sales, difference between current year sales and previous sales year, growth in the sales of the car(year to year)with respect to the previos year and what is the growth percentage.
+> Data Visualisation on the YTD sales Trend.
+> Visualisations of the Pie Charts on YTD total sales by body style and Color.
+> We can also visualise on YTD Cars sold by dealer region and Company Wise Sales Trend.
+> Also important point to remember is that this Year to Date, Month To Date are all Time Intelligence DAX queries which are imporatant to power queries on time related data.
+>We have used different kind of Filters to make the Dashboard more Interactive.
+> There is second Dashboard which has the grid view of the car sales like Car, Dealer Name, Company, Total Sales etc.
+> We have used Navigator Filter to switch between two filters.
+>Though I have added little Explanation on this project, it was an above Intermediate project which was comprehensive inorder to submit authentic information to the clients dynamically.
+> Overall through this project I was able to learn Data Modelling, Data Cleaning, Data Transformation, build calender tables, use of various filters and most important writing DAX queries on Time Intelligence Functions.
