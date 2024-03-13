@@ -47,6 +47,6 @@ Short Explanation of the Overview of the Project.
 > Also important point to remember is that this Year to Date, Month To Date are all Time Intelligence DAX queries which are imporatant to power queries on time related data.
 >We have used different kind of Filters to make the Dashboard more Interactive.
 > There is second Dashboard which has the grid view of the car sales like Car, Dealer Name, Company, Total Sales etc.
-> We have used Navigator Filter to switch between two filters.
+> We have used Navigator Filter to switch between two Dashboard.
 >Though I have added little Explanation on this project, it was an above Intermediate project which was comprehensive inorder to submit authentic information to the clients dynamically.
 > Overall through this project I was able to learn Data Modelling, Data Cleaning, Data Transformation, build calender tables, use of various filters and most important writing DAX queries on Time Intelligence Functions.
